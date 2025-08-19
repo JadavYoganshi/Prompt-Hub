@@ -29,7 +29,7 @@ Prompthub/
 ## 🛠️ Tools Used
 - 🤖 **Google Gemini**  
 - ⚡ **PowerAI**  
-- 🌊 **Deepsik**  
+- 🌊 **Deepseek**  
 - 🔑 **OpenAI**  
 - 🎨 **Canva AI**  
 - 📊 **Streamlit (UI Framework for dashboards)**  
