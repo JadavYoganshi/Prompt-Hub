@@ -32,6 +32,7 @@ Follow these steps to install and run **Streamlit** in your VS Code environment:
 2️⃣ **Open Terminal** in VS Code (`Ctrl + ~`)  
 3️⃣ **Create Virtual Environment (Recommended):**
 
+```bash
 python -m venv venv
 
 4️⃣ Activate Virtual Environment:
@@ -49,6 +50,7 @@ streamlit --version
 
 7️⃣ Run Your App:
 streamlit run app.py
+```
 
 📂 Project Status
 🔹 This is the initial version of Prompthub.
