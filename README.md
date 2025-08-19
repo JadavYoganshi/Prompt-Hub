@@ -16,6 +16,7 @@ Prompthub/
 │-- data/               # Datasets, CSV, JSON
 ---
 
+```bash
 ## 📌 Why Streamlit?
 🔹 **Fast** – Build dashboards in minutes  
 🔹 **Simple** – Just Python, no frontend required  
