@@ -5,6 +5,7 @@ This is just the **starting version** of the project. Future updates will includ
 
 ---
 ## 📂 Project Structure
+```bash
 Prompthub/
 │-- app.py              # Main Streamlit app
 │-- requirements.txt    # Python dependencies
