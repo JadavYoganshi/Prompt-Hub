@@ -67,9 +67,9 @@ streamlit run app.py
 
 ## 📂 Project Status
 
-- 🔹 **Version:** Initial release  
-- 🔹 **Setup:** Streamlit basic setup completed  
-- 🔹 **Next Steps:** Adding more AI features soon 🚀  
+🔹 **Version:** Initial release  
+🔹 **Setup:** Streamlit basic setup completed  
+🔹 **Next Steps:** Adding more AI features soon 🚀  
 
 
 ## 📜 License
