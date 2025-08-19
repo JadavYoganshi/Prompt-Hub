@@ -4,7 +4,7 @@ Prompthub is an AI-powered project that brings together multiple AI tools with a
 This is just the **starting version** of the project. Future updates will include more AI integrations and features.
 
 ---
-📂 Project Structure
+## 📂 Project Structure
 Prompthub/
 │-- app.py              # Main Streamlit app
 │-- requirements.txt    # Python dependencies
