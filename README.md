@@ -42,7 +42,10 @@ Follow these steps to install and run **Streamlit** in your VS Code environment:
 1️⃣ **Open VS Code** and your project folder  
 2️⃣ **Open Terminal** in VS Code (`Ctrl + ~`)  
 3️⃣ **Create Virtual Environment (Recommended):**
+
+Update README.md with full project setup and documentation
 ```bash
+
 python -m venv venv
 4️⃣ Activate Virtual Environment:
 
@@ -70,4 +73,3 @@ Update README.md with full project setup and documentation
 📜 License
 📝 This project is for learning & development purposes.
 
-Update README.md with full project setup and documentation
