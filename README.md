@@ -57,5 +57,6 @@ streamlit run app.py
 
 📜 License
 📝 This project is for learning & development purposes.
+```bash
 
 Update README.md with full project setup and documentation
