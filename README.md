@@ -66,9 +66,11 @@ streamlit run app.py
 ```
 
 📂 Project Status
+```
 🔹 This is the initial version of Prompthub.
 🔹 Only Streamlit setup is done.
 🔹 More AI features will be added soon.
+```
 
 📜 License
 📝 This project is for learning & development purposes.
