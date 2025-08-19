@@ -4,54 +4,52 @@ Prompthub is an AI-powered project that brings together multiple AI tools with a
 This is just the **starting version** of the project. Future updates will include more AI integrations and features.
 
 ---
+
 ## 📂 Project Structure
+
 ```bash
 Prompthub/
-│-- app.py              # Main Streamlit app
-│-- requirements.txt    # Python dependencies
-│-- README.md           # Documentation
+├── app.py              # Main Streamlit app
+├── requirements.txt    # Python dependencies
+├── README.md           # Documentation
 │
-│-- pages/              # Extra Streamlit pages
-│-- assets/             # Images, CSS, logos
-│-- data/               # Datasets, CSV, JSON
----
+├── pages/              # Extra Streamlit pages
+├── assets/             # Images, CSS, logos
+└── data/               # Datasets, CSV, JSON
+📌 Why Streamlit?
+🔹 Fast – Build dashboards in minutes
+🔹 Simple – Just Python, no frontend required
+🔹 Interactive – Create live apps easily
+🔹 Perfect for AI projects – Quick prototyping with clean UI
 
-```bash
-## 📌 Why Streamlit?
-🔹 **Fast** – Build dashboards in minutes  
-🔹 **Simple** – Just Python, no frontend required  
-🔹 **Interactive** – Create live apps easily  
-🔹 **Perfect for AI projects** – Quick prototyping with clean UI  
+🛠️ Tools Used
+🤖 Google Gemini
 
----
+⚡ PowerAI
 
-## 🛠️ Tools Used
-- 🤖 **Google Gemini**  
-- ⚡ **PowerAI**  
-- 🌊 **Deepsik**  
-- 🔑 **OpenAI**  
-- 🎨 **Canva AI**  
-- 📊 **Streamlit (UI Framework for dashboards)**  
+🌊 Deepsik
 
----
+🔑 OpenAI
 
-## ⚡ Getting Started (Setup in VS Code)
+🎨 Canva AI
 
-Follow these steps to install and run **Streamlit** in your VS Code environment:  
+📊 Streamlit (UI Framework for dashboards)
 
-### 🔧 Installation Steps
-1️⃣ **Open VS Code** and your project folder  
-2️⃣ **Open Terminal** in VS Code (`Ctrl + ~`)  
-3️⃣ **Create Virtual Environment (Recommended):**
-```bash
+⚡ Getting Started (Setup in VS Code)
+Follow these steps to install and run Streamlit in your VS Code environment:
+
+🔧 Installation Steps
+1️⃣ Open VS Code and your project folder
+2️⃣ Open Terminal in VS Code (Ctrl + ~)
+3️⃣ Create Virtual Environment (Recommended):
 
 python -m venv venv
-4️⃣ Activate Virtual Environment:
 
-On Windows:
+4️⃣ Activate Virtual Environment:
+# On Windows
 venv\Scripts\activate
 
-On Mac/Linux:
+# On Mac/Linux
 source venv/bin/activate
 
 5️⃣ Install Streamlit:
@@ -68,7 +66,7 @@ streamlit run app.py
 🔹 Only Streamlit setup is done.
 🔹 More AI features will be added soon.
 
-Update README.md with full project setup and documentation
 📜 License
 📝 This project is for learning & development purposes.
 
+Update README.md with full project setup and documentation
