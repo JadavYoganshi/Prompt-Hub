@@ -4,6 +4,18 @@ Prompthub is an AI-powered project that brings together multiple AI tools with a
 This is just the **starting version** of the project. Future updates will include more AI integrations and features.
 
 ---
+```bash
+## 📂 Final Project Structure
+Prompthub/
+│-- app.py               # Main Streamlit app
+│-- requirements.txt     # Python dependencies
+│-- README.md            # Documentation
+│
+│-- pages/               # Extra Streamlit pages
+│-- assets/              # Images, CSS, icons, logos
+│-- data/                # CSV, JSON, or datasets
+```
+---
 
 ## 📌 Why Streamlit?
 🔹 **Fast** – Build dashboards in minutes  
@@ -59,6 +71,5 @@ streamlit run app.py
 
 📜 License
 📝 This project is for learning & development purposes.
-```bash
 
 Update README.md with full project setup and documentation
