@@ -5,51 +5,40 @@ This is just the **starting version** of the project. Future updates will includ
 
 ---
 
-## 📂 Project Structure
+## 📌 Why Streamlit?
+🔹 **Fast** – Build dashboards in minutes  
+🔹 **Simple** – Just Python, no frontend required  
+🔹 **Interactive** – Create live apps easily  
+🔹 **Perfect for AI projects** – Quick prototyping with clean UI  
 
-```bash
-Prompthub/
-├── app.py              # Main Streamlit app
-├── requirements.txt    # Python dependencies
-├── README.md           # Documentation
-│
-├── pages/              # Extra Streamlit pages
-├── assets/             # Images, CSS, logos
-└── data/               # Datasets, CSV, JSON
-📌 Why Streamlit?
-🔹 Fast – Build dashboards in minutes
-🔹 Simple – Just Python, no frontend required
-🔹 Interactive – Create live apps easily
-🔹 Perfect for AI projects – Quick prototyping with clean UI
+---
 
-🛠️ Tools Used
-🤖 Google Gemini
+## 🛠️ Tools Used
+- 🤖 **Google Gemini**  
+- ⚡ **PowerAI**  
+- 🌊 **Deepsik**  
+- 🔑 **OpenAI**  
+- 🎨 **Canva AI**  
+- 📊 **Streamlit (UI Framework for dashboards)**  
 
-⚡ PowerAI
+---
 
-🌊 Deepsik
+## ⚡ Getting Started (Setup in VS Code)
 
-🔑 OpenAI
+Follow these steps to install and run **Streamlit** in your VS Code environment:  
 
-🎨 Canva AI
-
-📊 Streamlit (UI Framework for dashboards)
-
-⚡ Getting Started (Setup in VS Code)
-Follow these steps to install and run Streamlit in your VS Code environment:
-
-🔧 Installation Steps
-1️⃣ Open VS Code and your project folder
-2️⃣ Open Terminal in VS Code (Ctrl + ~)
-3️⃣ Create Virtual Environment (Recommended):
+### 🔧 Installation Steps
+1️⃣ **Open VS Code** and your project folder  
+2️⃣ **Open Terminal** in VS Code (`Ctrl + ~`)  
+3️⃣ **Create Virtual Environment (Recommended):**
 
 python -m venv venv
 
 4️⃣ Activate Virtual Environment:
-# On Windows
+On Windows:
 venv\Scripts\activate
 
-# On Mac/Linux
+On Mac/Linux:
 source venv/bin/activate
 
 5️⃣ Install Streamlit:
