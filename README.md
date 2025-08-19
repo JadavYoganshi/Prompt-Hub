@@ -6,6 +6,7 @@ This is just the **starting version** of the project. Future updates will includ
 ---
 
 ## 📂 Final Project Structure
+```bash
 Prompthub/
 │-- app.py               # Main Streamlit app
 │-- requirements.txt     # Python dependencies
@@ -14,6 +15,7 @@ Prompthub/
 │-- pages/               # Extra Streamlit pages
 │-- assets/              # Images, CSS, icons, logos
 │-- data/                # CSV, JSON, or datasets
+```
 ---
 
 ## 📌 Why Streamlit?
