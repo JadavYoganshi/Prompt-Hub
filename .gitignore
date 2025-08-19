@@ -1,0 +1,43 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# --- Virtual Environment ---
+venv/
+env/
+.venv/
+
+# --- Streamlit ---
+.streamlit/secrets.toml  # (if you use secrets)
+.streamlit/config.toml
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Logs and Dumps ---
+*.log
+*.out
+*.tmp
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- IDE Specific ---
+.vscode/
+.idea/
+
+# --- Cache ---
+.cache/
+
+# --- Data (optional, if you want to ignore very large datasets only) ---
+# data/*.csv
+# data/*.json
+# data/*.xlsx
